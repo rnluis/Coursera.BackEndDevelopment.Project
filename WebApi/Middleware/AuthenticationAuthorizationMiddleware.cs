@@ -1,7 +1,4 @@
-﻿using Serilog;
-using Serilog.Events;
-
-namespace WebApi;
+﻿namespace WebApi.Middleware;
 
 public class AuthenticationAuthorizationMiddleware(RequestDelegate next)
 {

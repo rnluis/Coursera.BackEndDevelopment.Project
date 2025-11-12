@@ -28,7 +28,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="EndPoints\" />
       <Folder Include="Logs\" />
     </ItemGroup>
 

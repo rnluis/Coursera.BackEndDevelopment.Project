@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rnsilva\\Desktop\\Learn\\BaseProject\\BaseProject.Template\\SharedKernel\\SharedKernel.csproj": {}
+    "C:\\Users\\rnsilva\\Desktop\\Learn\\Coursera\\Microsoft.BackEnd\\Coursera.BackEndDevelopment.Project\\SharedKernel\\SharedKernel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rnsilva\\Desktop\\Learn\\BaseProject\\BaseProject.Template\\SharedKernel\\SharedKernel.csproj": {
+    "C:\\Users\\rnsilva\\Desktop\\Learn\\Coursera\\Microsoft.BackEnd\\Coursera.BackEndDevelopment.Project\\SharedKernel\\SharedKernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rnsilva\\Desktop\\Learn\\BaseProject\\BaseProject.Template\\SharedKernel\\SharedKernel.csproj",
+        "projectUniqueName": "C:\\Users\\rnsilva\\Desktop\\Learn\\Coursera\\Microsoft.BackEnd\\Coursera.BackEndDevelopment.Project\\SharedKernel\\SharedKernel.csproj",
         "projectName": "SharedKernel",
-        "projectPath": "C:\\Users\\rnsilva\\Desktop\\Learn\\BaseProject\\BaseProject.Template\\SharedKernel\\SharedKernel.csproj",
+        "projectPath": "C:\\Users\\rnsilva\\Desktop\\Learn\\Coursera\\Microsoft.BackEnd\\Coursera.BackEndDevelopment.Project\\SharedKernel\\SharedKernel.csproj",
         "packagesPath": "C:\\Users\\rnsilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rnsilva\\Desktop\\Learn\\BaseProject\\BaseProject.Template\\SharedKernel\\obj\\",
+        "outputPath": "C:\\Users\\rnsilva\\Desktop\\Learn\\Coursera\\Microsoft.BackEnd\\Coursera.BackEndDevelopment.Project\\SharedKernel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

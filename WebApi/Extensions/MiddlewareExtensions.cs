@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authentication;
 using Serilog;
 using Serilog.Events;
+using WebApi.Middleware;
 
 namespace WebApi.Extensions;
 

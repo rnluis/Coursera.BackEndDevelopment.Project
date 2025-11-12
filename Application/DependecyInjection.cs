@@ -1,5 +1,4 @@
 ﻿using Application.Abstractions.Messaging;
-using Application.Product.Create;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Application;
@@ -12,6 +11,9 @@ public static class DependecyInjection
         
         services.Scan(scan => scan.FromAssembliesOf(typeof(DependecyInjection))
             .AddClasses(classes => classes.AssignableTo(typeof(IQueryHandler<,>)), publicOnly: false)
+            .AsImplementedInterfaces()
+            .WithScopedLifetime()
+            .AddClasses(classes => classes.AssignableTo(typeof(IQueryHandler<>)), publicOnly: false)
             .AsImplementedInterfaces()
             .WithScopedLifetime()
             .AddClasses(classes => classes.AssignableTo(typeof(ICommandHandler<>)), publicOnly: false)

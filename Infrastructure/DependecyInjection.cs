@@ -1,5 +1,5 @@
 ﻿using Application.Abstractions.DataAccess;
-using Infrastructure.SqlDatabase;
+using Infrastructure.Persistence;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Infrastructure
@@ -10,13 +10,13 @@ namespace Infrastructure
 
         public static IServiceCollection AddInfrastructure(this IServiceCollection services)
         {
-            return services.AddSql();
+            return services.AddInMemory();
         }
 
 
-        public static IServiceCollection AddSql(this IServiceCollection services)
+        public static IServiceCollection AddInMemory(this IServiceCollection services)
         {
-            services.AddSingleton<IDatabaseService, SqlService>();
+            services.AddSingleton<IDatabaseService, InMemoryDatabaseService>();
             return services;
         }
         

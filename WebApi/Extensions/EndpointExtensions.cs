@@ -1,7 +1,6 @@
 ﻿using System.Reflection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using WebApi.EndPoints;
-using WebApi.EndPoints.Minimalist_Format;
 
 namespace WebApi.Extensions;
 

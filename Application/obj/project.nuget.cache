@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8L9j4Q7UctM=",
+  "dgSpecHash": "iOKM9Sx0LlQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rnsilva\\Desktop\\Learn\\BaseProject\\BaseProject.Template\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\rnsilva\\Desktop\\Learn\\Coursera\\Microsoft.BackEnd\\Coursera.BackEndDevelopment.Project\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rnsilva\\.nuget\\packages\\fluentvalidation\\12.1.0\\fluentvalidation.12.1.0.nupkg.sha512",
     "C:\\Users\\rnsilva\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.1.0\\fluentvalidation.dependencyinjectionextensions.12.1.0.nupkg.sha512",

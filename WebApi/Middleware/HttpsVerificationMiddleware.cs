@@ -1,4 +1,4 @@
-﻿namespace WebApi;
+﻿namespace WebApi.Middleware;
 
 public class HttpsVerificationMiddleware(RequestDelegate next)
 {
