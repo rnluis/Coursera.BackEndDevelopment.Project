@@ -1,0 +1,261 @@
+2025-11-12 09:18:50.422 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 09:18:50.554 +00:00 [FTL] Division 10 is 0
+2025-11-12 09:19:54.385 +00:00 [ERR] End of Middleware Extension
+2025-11-12 09:20:01.278 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 09:20:01.349 +00:00 [FTL] Division 10 is 0
+2025-11-12 09:23:41.472 +00:00 [ERR] End of Middleware Extension
+2025-11-12 09:24:29.002 +00:00 [ERR] End of Middleware Extension
+2025-11-12 09:24:38.624 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 09:25:25.806 +00:00 [ERR] End of Middleware Extension
+2025-11-12 09:25:31.751 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 09:25:38.954 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 09:25:38.972 +00:00 [FTL] Division 300 is 10
+2025-11-12 09:25:44.003 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 09:25:44.011 +00:00 [FTL] Division 300 is 7
+2025-11-12 09:25:47.212 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 09:25:47.221 +00:00 [FTL] Division 300 is 0
+2025-11-12 09:25:47.248 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.DivideByZeroException: Attempted to divide by zero.
+   at WebApi.EndPoints.Minimalist_Format.Examples.DevideByZero.<MapEndpoint>b__2_0(Int32 Value, Int32 Divisor, CancellationToken cancellationToken) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\EndPoints\Minimalist_Format\Examples\DevideByZero.cs:line 23
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<ExecuteTaskOfTFast>g__ExecuteAwaited|131_0[T](Task`1 task, HttpContext httpContext, JsonTypeInfo`1 jsonTypeInfo)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-11-12 09:25:54.606 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 09:25:54.621 +00:00 [FTL] Division 300 is 7
+2025-11-12 09:44:13.190 +00:00 [ERR] End of Middleware Extension
+2025-11-12 09:44:14.292 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 09:44:14.598 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 09:44:18.528 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 09:44:18.555 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 09:44:18.575 +00:00 [FTL] Division 10 is 0
+2025-11-12 09:44:18.619 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.DivideByZeroException: Attempted to divide by zero.
+   at WebApi.EndPoints.Minimalist_Format.Examples.DevideByZero.<MapEndpoint>b__2_0(Int32 Value, Int32 Divisor, CancellationToken cancellationToken) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\EndPoints\Minimalist_Format\Examples\DevideByZero.cs:line 23
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<ExecuteTaskOfTFast>g__ExecuteAwaited|131_0[T](Task`1 task, HttpContext httpContext, JsonTypeInfo`1 jsonTypeInfo)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-11-12 09:44:53.334 +00:00 [ERR] End of Middleware Extension
+2025-11-12 09:45:01.898 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 09:45:02.140 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 10:22:46.852 +00:00 [ERR] End of Middleware Extension
+2025-11-12 10:23:13.138 +00:00 [ERR] End of Middleware Extension
+2025-11-12 10:29:20.458 +00:00 [ERR] End of Middleware Extension
+2025-11-12 10:30:33.459 +00:00 [ERR] End of Middleware Extension
+2025-11-12 10:39:38.083 +00:00 [ERR] End of Middleware Extension
+2025-11-12 10:42:35.540 +00:00 [ERR] End of Middleware Extension
+2025-11-12 10:42:38.934 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 10:42:42.390 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 10:42:46.514 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 10:42:56.478 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 10:43:28.071 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 10:43:28.090 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 10:43:28.267 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 10:43:28.302 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 10:43:28.283 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 10:43:28.293 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 10:43:28.350 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 10:43:28.862 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 10:43:28.916 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 10:43:42.770 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 10:43:42.785 +00:00 [FTL] Division 12 is 2
+2025-11-12 11:02:28.525 +00:00 [ERR] End of Middleware Extension
+2025-11-12 11:04:08.917 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 11:04:09.086 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 11:04:15.390 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 11:55:24.395 +00:00 [ERR] End of Middleware Extension
+2025-11-12 12:02:03.529 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 12:02:06.738 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 12:02:08.584 +00:00 [FTL] Request Context Logging Middleware
+2025-11-12 12:29:55.891 +00:00 [ERR] 400+ Error found:
+2025-11-12 12:29:55.970 +00:00 [ERR]      Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+2025-11-12 12:30:10.701 +00:00 [FTL] Division 10 is 0
+2025-11-12 12:30:10.757 +00:00 [ERR] 400+ Error found:
+2025-11-12 12:30:10.763 +00:00 [ERR]      Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+2025-11-12 12:30:10.776 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at WebApi.RequestContextLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\Middleware\RequestContextLoggingMiddleware.cs:line 22
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-11-12 12:30:10.864 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at WebApi.RequestContextLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\Middleware\RequestContextLoggingMiddleware.cs:line 22
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-11-12 12:30:10.912 +00:00 [ERR] Connection id "0HNH1SSNT4RK3", Request id "0HNH1SSNT4RK3:00000002": An unhandled exception was thrown by the application.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at WebApi.RequestContextLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\Middleware\RequestContextLoggingMiddleware.cs:line 22
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2025-11-12 12:30:28.169 +00:00 [FTL] Division 10 is 0
+2025-11-12 12:30:28.180 +00:00 [ERR] 400+ Error found:
+2025-11-12 12:30:28.183 +00:00 [ERR]      Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+2025-11-12 12:30:28.188 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at WebApi.RequestContextLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\Middleware\RequestContextLoggingMiddleware.cs:line 22
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-11-12 12:30:28.209 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at WebApi.RequestContextLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\Middleware\RequestContextLoggingMiddleware.cs:line 22
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-11-12 12:30:28.230 +00:00 [ERR] Connection id "0HNH1SSNT4RK5", Request id "0HNH1SSNT4RK5:00000001": An unhandled exception was thrown by the application.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at WebApi.RequestContextLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\Middleware\RequestContextLoggingMiddleware.cs:line 22
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2025-11-12 12:30:47.356 +00:00 [FTL] Division 10 is 0
+2025-11-12 12:30:47.374 +00:00 [ERR] 400+ Error found:
+2025-11-12 12:30:47.382 +00:00 [ERR]      Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+2025-11-12 12:30:47.389 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at WebApi.RequestContextLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\Middleware\RequestContextLoggingMiddleware.cs:line 22
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-11-12 12:30:47.412 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at WebApi.RequestContextLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\Middleware\RequestContextLoggingMiddleware.cs:line 22
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-11-12 12:30:47.446 +00:00 [ERR] Connection id "0HNH1SSNT4RK7", Request id "0HNH1SSNT4RK7:00000001": An unhandled exception was thrown by the application.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at WebApi.RequestContextLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\Middleware\RequestContextLoggingMiddleware.cs:line 22
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2025-11-12 12:31:13.475 +00:00 [FTL] Division 10 is 0
+2025-11-12 12:31:13.480 +00:00 [ERR] 400+ Error found:
+2025-11-12 12:31:13.489 +00:00 [ERR]      Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+2025-11-12 12:31:13.492 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at WebApi.RequestContextLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\Middleware\RequestContextLoggingMiddleware.cs:line 22
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-11-12 12:31:13.505 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at WebApi.RequestContextLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\Middleware\RequestContextLoggingMiddleware.cs:line 22
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-11-12 12:31:13.523 +00:00 [ERR] Connection id "0HNH1SSNT4RK9", Request id "0HNH1SSNT4RK9:00000001": An unhandled exception was thrown by the application.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at WebApi.RequestContextLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\Middleware\RequestContextLoggingMiddleware.cs:line 22
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2025-11-12 12:31:43.751 +00:00 [FTL] Division 10 is 0
+2025-11-12 12:31:53.685 +00:00 [FTL] Division 10 is 1
+2025-11-12 12:33:20.361 +00:00 [FTL] Division 10 is 1
+2025-11-12 12:38:12.058 +00:00 [ERR] 400+ Error found:
+2025-11-12 12:38:12.111 +00:00 [ERR]      Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+2025-11-12 12:38:53.531 +00:00 [ERR] 400+ Error found:
+2025-11-12 12:38:53.534 +00:00 [ERR]      Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+2025-11-12 12:40:27.336 +00:00 [ERR] 400+ Error found:
+2025-11-12 12:40:27.385 +00:00 [ERR]      Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+2025-11-12 12:40:27.391 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at WebApi.RequestContextLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\Middleware\RequestContextLoggingMiddleware.cs:line 23
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-11-12 12:40:27.427 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at WebApi.RequestContextLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\Middleware\RequestContextLoggingMiddleware.cs:line 23
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-11-12 12:40:27.443 +00:00 [ERR] Connection id "0HNH1T2D7K0EN", Request id "0HNH1T2D7K0EN:00000003": An unhandled exception was thrown by the application.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at WebApi.RequestContextLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\Middleware\RequestContextLoggingMiddleware.cs:line 23
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2025-11-12 12:40:41.598 +00:00 [ERR] 400+ Error found:
+2025-11-12 12:40:41.600 +00:00 [ERR]      Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+2025-11-12 12:40:41.603 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at WebApi.RequestContextLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\Middleware\RequestContextLoggingMiddleware.cs:line 23
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-11-12 12:40:41.614 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at WebApi.RequestContextLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\Middleware\RequestContextLoggingMiddleware.cs:line 23
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-11-12 12:40:41.629 +00:00 [ERR] Connection id "0HNH1T2D7K0EP", Request id "0HNH1T2D7K0EP:00000001": An unhandled exception was thrown by the application.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at WebApi.RequestContextLoggingMiddleware.Invoke(HttpContext httpContext) in C:\Users\rnsilva\Desktop\Learn\BaseProject\BaseProject.Template\WebApi\Middleware\RequestContextLoggingMiddleware.cs:line 23
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
